@@ -6,7 +6,8 @@ An advanced, human-machine interface (HMI) tactical glove developed to enable in
 * **Tactile Push-Button** (Hardware-level safety interlock / Dead-man switch)
 * **Wireless Transceiver Link** (High-speed Serial/RF data transmission pipeline)
 ## 🔌 Circuit Simulation & Wiring Proof
-https://i.postimg.cc/qMZVSfqp/Push-Button-20260719-131546-0000.png
+![Circuit Diagram](https://i.postimg.cc/mZV5Fqsp/Push-Button-20260719-131546-0000.png)
+
 > 💡 *Note: Component layout optimized for low-latency data streaming and minimal physical footprint on the wearable chassis.*
 
 | Component Module | Component Pin | Arduino Nano Pin | Wiring Connection Notes |
