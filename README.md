@@ -31,3 +31,12 @@ An advanced, human-machine interface (HMI) tactical glove developed to enable in
 * **Dynamic Range Mapping:** Processes raw data values ranging from -16384 to 16384 and calibrates them into exact structural tilt angles between -90° and 90° for flight control translation.
 * **Hardware State Interlock:** Integrates a fail-safe input condition on Pin D2; if the safety button is released, the firmware overrides sensor data and transmits a safe "Hover/Idle" packet (`0,0`) instantly.
 * **Serial Telemetry Stream:** Outputs formatted high-frequency string vectors over the hardware serial link for real-time monitoring and wireless link transmission.
+
+---
+
+### 🌐 System Architecture Navigation
+
+| [🏠 Master System Repo](https://github.com/KhadijaDawood/VeloX-Rescue-V1-System-Glove-Transmitter-Airborne-Drone-Receiver-Framework-) | [🧤 Glove Transmitter Repo](https://github.com/KhadijaDawood/VeloX-Glove-Transmitter-V1) | [🛸 Drone Receiver Telemetry](https://github.com/KhadijaDawood/VeloX-Rescue-V1-Receiver-Telemetry) |
+| :---: | :---: | :---: |
+
+---
